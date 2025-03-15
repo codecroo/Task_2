@@ -59,3 +59,5 @@ The application uses:
 - The lyrics generator uses Google's Gemini AI model for high-quality, creative output
 - Word suggestions are provided when exact rhymes aren't found
 - The interface is designed to be intuitive and user-friendly
+
+- **Developed by Parth Delvadiya**
