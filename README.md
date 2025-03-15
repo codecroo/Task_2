@@ -60,5 +60,5 @@ The application uses:
 - Word suggestions are provided when exact rhymes aren't found
 - The interface is designed to be intuitive and user-friendly
 
----
-- **Developed by Parth Delvadiya**
+## Author
+**Parth Delvadiya**  
